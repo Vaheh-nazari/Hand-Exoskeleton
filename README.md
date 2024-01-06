@@ -7,3 +7,6 @@ Millions of individuals suffer from upper extremity paralysis caused by neurolog
 
 # License
 Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
+
+# Reference
+Nazari V, Pouladian M, Zheng YP, Alam M. A Compact and Lightweight Rehabilitative Exoskeleton to Restore Grasping Functions for People with Hand Paralysis. Sensors (Basel). 2021 Oct 18;21(20):6900. doi: 10.3390/s21206900. PMID: 34696113; PMCID: PMC8540222.
